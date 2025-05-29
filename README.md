@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Computeroid1
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning React native, Flutter, Java, SDL2, Godot, and Game development
+- 👀 I’m interested in software development, game development, and AI development
+- 🌱 I’m currently learning Java, SDL2, Godot, and Game development
+- My programming languages: JavaScript, Python, Lua, C++
 - 💞️ I’m looking to collaborate on a game dev project
 - 📫 How to reach me chibuzorugochukwu24@gmail.com
 - 😄 Pronouns: ...
