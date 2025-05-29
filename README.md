@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Computeroid1
 - 👀 I’m interested in software development, game development, and AI development
 - 🌱 I’m currently learning Java, TensorFlow, SDL2, Godot, and Game development
-- My programming languages: JavaScript, Python, Lua, C++
+- 💻 My programming languages: JavaScript, Python, Lua, C++
 - 💞️ I’m looking to collaborate on a game dev project
 - 📫 How to reach me chibuzorugochukwu24@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He 👨🏾‍💻
 - ⚡ Fun fact: ...
 
 <!---
