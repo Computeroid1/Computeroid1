@@ -7,6 +7,7 @@
   <a href="https://github.com/Computeroid1"><img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://twitter.com/Ugo_Chibuzor1"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/27882429"><img src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://computeroid1.itch.io"><img src="https://img.shields.io/badge/itch.io-%2523FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 </p>
 
 ---
