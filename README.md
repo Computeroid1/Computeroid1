@@ -42,7 +42,10 @@ I love creating, experimenting, and pushing boundaries in tech and game developm
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Haxe_logo.svg" alt="Haxe" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" alt="Nim" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg" alt="LÖVE" height="60"/>
 </p>
 
 ---
