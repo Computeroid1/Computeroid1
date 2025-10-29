@@ -19,7 +19,7 @@ I love creating, experimenting, and pushing boundaries in tech and game developm
 ---
 
 ### ⚡ Quick Facts  
-- 🌱 Currently learning **Asp.NET, WPF, Vue.JS, AvaloniaUI**  
+- 🌱 Currently learning **Heaps.io, Vue.JS, HaxeUI**  
 - 💬 Ask me about **JavaScript & Game Development**  
 - 🎮 Fun fact: I enjoy **martial arts, games, and puzzles**  
 
@@ -35,7 +35,8 @@ I love creating, experimenting, and pushing boundaries in tech and game developm
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60"/>
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60"/>
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" alt="Flutter" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart" height="60"/>
   <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="60"/>
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60"/>
   <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="60"/>
