@@ -20,7 +20,7 @@ I love creating, experimenting, and pushing boundaries in tech and game developm
 
 ### ⚡ Quick Facts  
 - 🌱 Currently learning **Heaps.io, Vue.JS, HaxeUI**  
-- 💬 Ask me about **JavaScript & Game Development**  
+- 💬 Ask me about **JavaScript, Haxe, & Game Development**  
 - 🎮 Fun fact: I enjoy **martial arts, games, and puzzles**  
 
 ---
